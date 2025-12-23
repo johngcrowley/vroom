@@ -7,6 +7,7 @@ practicing profiling read and parse strategies in rust
  * No `println` statements, use [GDB](https://web.archive.org/web/20140831121704/http://dirac.org/linux/gdb/02a-Memory_Layout_And_The_Stack.php) to debug
  * Use `perf` to guide development
  * Note improvements in `CHANGELOG` (`perf` output comparisons, bottlenecks).
+ * No clankers
 
 ## Set Up
 
