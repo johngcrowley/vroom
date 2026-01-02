@@ -1,1 +1,3 @@
 ~ dec 19 2025: naive approach, bufreader, allocations, 2m15s
+~ dec 23 2025: naive approach, bufreader, match instead of allocation for key lookup, modify mutable tuple ref in place, no `partialcomp` at end, 1m39s
+~ jan 2 2026:  mmapped file, 51s
